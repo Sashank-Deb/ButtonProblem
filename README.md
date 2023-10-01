@@ -1,6 +1,5 @@
 # ButtonProblem
 Hackerrank Day 8 of JavaScript
-Objective
 <div class="hackdown-content">
   <svg style="display: none;"><defs id="MathJax_SVG_glyphs"></defs></svg><p><strong>Objective</strong></p>
 
