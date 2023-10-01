@@ -1,0 +1,29 @@
+body{
+    position:relative;
+}
+#btns{
+    width:75%;
+    position:relative;
+    margin:auto;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+}
+button{
+    width:30%;
+    position:relative;
+    height:48px;
+    flex: 1 1 1;
+    font-size:24px;
+}
+
+#btn1{ order: 1; }
+#btn2{ order: 2; }
+#btn3{ order: 3; }
+#btn4{ order: 4; }
+#btn5{ order: 5; }
+#btn6{ order: 6; }
+#btn7{ order: 7; }
+#btn8{ order: 8; }
+#btn9{ order: 9; }
